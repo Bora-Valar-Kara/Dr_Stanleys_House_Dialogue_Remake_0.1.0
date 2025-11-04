@@ -60,6 +60,11 @@ export const NLU_KEY = "your_key";
 
 You will need an Azure account to generate these keys. The guide to obtain them will be added soon.
 
+```bash
+cd ..
+yarn dev
+```
+
 ## How to Play
 
 Ideally, refresh the page before each gameplay and wait for a few seconds. Then press the button below that says "idle" to start the game, during the game, this button will change between "recognizing" and "speaking", the system will stop listening to you when it says: "speaking", only speak when it says "recognizing". Follow the instructions of the game and you can see hints about what you can say in each environmenton top left and top right of the screen. In the beginning, when your assistant says: "Please introduce yourself." Please say your detective name: "My name is ...", "I am ...", along with a short introduction about yourself. Fasten your seatbelts and enjoy the game! You can say similar phrases to the hints that are presented in the screen, for example, you can say, "I want to go right." "Let's go right.", "Maybe we can explore around the door." etc. 
