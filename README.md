@@ -25,7 +25,7 @@ This game is built using the following technologies:
 
 ## Setup Instructions
 
-### Option 1: Play the Pre-Deployed Game
+### Option 1: Play the Pre-Deployed Game (⚠️ Currently Not Valid – Will Be Updated)
 
 Access the hosted version of the game:
 
